@@ -6,10 +6,12 @@ I'm passionate about **Machine Learning, Artificial Intelligence, and Game Devel
 ## 🛠️ Skills & Tech Stack
 - **Languages:** Python, C, SQL
 - **Frameworks & Libraries:** PyTorch
-- **Domains:** ML, AI, Game Development
+- **Domains:** ML, AI.
 
 ## 🎓 Certifications
-- Python Basics – HackerRank
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Logo" width="24" height="24" /> [Oracle Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED2A3BC2FC7CFAB7681C953333302FF56424B6842355AE087604BEE7221C82A2)
+- [Python Basics – HackerRank](https://www.hackerrank.com/certificates/a3dec263ae2b)
 
 ## 🏏 Hobbies & Interests
 - Playing Cricket
