@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Logo" height="40" />
   &nbsp;&nbsp;
-  <img src="https://hrcdn.net/community-frontend/assets/favicon.ico" alt="HackerRank Logo" height="40" />
+  <img src="https://share.google/images/tPEolYlSGk888L1qv" alt="HackerRank Logo" height="40" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" height="40" />
   &nbsp;&nbsp;
@@ -59,4 +59,4 @@ I'm always eager to connect with fellow developers and researchers. Reach out if
 
 ---
 
-*"Unlocking the power of data, one innovation at a time."*
+*"Building smarter futures through data and innovation."*
