@@ -22,7 +22,7 @@ I'm passionate about **Machine Learning and Artificial Intelligence**. My journe
 - [Oracle Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED2A3BC2FC7CFAB7681C953333302FF56424B6842355AE087604BEE7221C82A2)
 - [Python Basics – HackerRank](https://www.hackerrank.com/certificates/a3dec263ae2b)
 
-## 🏅 LeetCode Progress
+## 🏅 [LeetCode](https://leetcode.com/u/vishnuvital/)
 
 <p align="left">
   <a href="https://leetcode.com/u/vishnuvital/">
@@ -38,7 +38,7 @@ Medium [■■■■■■■■■■■■------------------------] 11
 Hard   [■■■---------------------------------] 3
 ```
 
->[LeetCode](https://leetcode.com/u/vishnuvital/)
+
 
 ## 🏏 Hobbies & Interests
 - Playing Cricket
