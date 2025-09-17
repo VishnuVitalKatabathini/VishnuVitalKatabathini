@@ -2,6 +2,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Logo" height="40" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_black.png" alt="LeetCode Logo" height="40" />
 </p>
 
 # Hi there, I'm Vishnu Vital Katabathini 👋
@@ -17,6 +21,13 @@ I'm passionate about **Machine Learning and Artificial Intelligence**. My journe
 ## 🎓 Certifications
 - [Oracle Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED2A3BC2FC7CFAB7681C953333302FF56424B6842355AE087604BEE7221C82A2)
 - [Python Basics – HackerRank](https://www.hackerrank.com/certificates/a3dec263ae2b)
+
+## 🏅 Competitive Programming & Data Science
+
+- **LeetCode:** [My Profile](https://leetcode.com/u/vishnuvital/)
+  - Actively solving coding challenges and improving my algorithmic skills.
+  - Achievements: Highlighted progress, completed contests, and solved numerous problems across Easy, Medium, and Hard levels.
+- **Kaggle:** Engaged in competitions and learning tracks for data science and ML.
 
 ## 🏏 Hobbies & Interests
 - Playing Cricket
