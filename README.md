@@ -38,7 +38,7 @@ Medium [■■■■■■■■■■■■------------------------] 11
 Hard   [■■■---------------------------------] 3
 ```
 
-> See my full progress and contest history on [LeetCode](https://leetcode.com/u/vishnuvital/)
+>[LeetCode](https://leetcode.com/u/vishnuvital/)
 
 ## 🏏 Hobbies & Interests
 - Playing Cricket
